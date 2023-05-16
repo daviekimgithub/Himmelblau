@@ -1,0 +1,68 @@
+C:\CEG 7370\PSO\bin\Debug\net6.0-windows\PSO.exe
+C:\CEG 7370\PSO\bin\Debug\net6.0-windows\PSO.deps.json
+C:\CEG 7370\PSO\bin\Debug\net6.0-windows\PSO.runtimeconfig.json
+C:\CEG 7370\PSO\bin\Debug\net6.0-windows\PSO.dll
+C:\CEG 7370\PSO\bin\Debug\net6.0-windows\PSO.pdb
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.csproj.AssemblyReference.cache
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.Form1.resources
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.csproj.GenerateResource.cache
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfoInputs.cache
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfo.cs
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.csproj.CoreCompileInputs.cache
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.dll
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\refint\PSO.dll
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.pdb
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\PSO.genruntimeconfig.cache
+C:\CEG 7370\PSO\obj\Debug\net6.0-windows\ref\PSO.dll
+C:\Users\lakki\Downloads\PSO\PSO\bin\Debug\net6.0-windows\PSO.exe
+C:\Users\lakki\Downloads\PSO\PSO\bin\Debug\net6.0-windows\PSO.deps.json
+C:\Users\lakki\Downloads\PSO\PSO\bin\Debug\net6.0-windows\PSO.runtimeconfig.json
+C:\Users\lakki\Downloads\PSO\PSO\bin\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Downloads\PSO\PSO\bin\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.csproj.AssemblyReference.cache
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.Form1.resources
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.csproj.GenerateResource.cache
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfoInputs.cache
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfo.cs
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.csproj.CoreCompileInputs.cache
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\refint\PSO.dll
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\PSO.genruntimeconfig.cache
+C:\Users\lakki\Downloads\PSO\PSO\obj\Debug\net6.0-windows\ref\PSO.dll
+C:\Users\lakki\Documents\PSO\bin\Debug\net6.0-windows\PSO.exe
+C:\Users\lakki\Documents\PSO\bin\Debug\net6.0-windows\PSO.deps.json
+C:\Users\lakki\Documents\PSO\bin\Debug\net6.0-windows\PSO.runtimeconfig.json
+C:\Users\lakki\Documents\PSO\bin\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Documents\PSO\bin\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.csproj.AssemblyReference.cache
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.Form1.resources
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.csproj.GenerateResource.cache
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfoInputs.cache
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.AssemblyInfo.cs
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.csproj.CoreCompileInputs.cache
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\refint\PSO.dll
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\PSO.genruntimeconfig.cache
+C:\Users\lakki\Documents\PSO\obj\Debug\net6.0-windows\ref\PSO.dll
+C:\Users\lakki\Documents\Himmelblau\bin\Debug\net6.0-windows\PSO.exe
+C:\Users\lakki\Documents\Himmelblau\bin\Debug\net6.0-windows\PSO.deps.json
+C:\Users\lakki\Documents\Himmelblau\bin\Debug\net6.0-windows\PSO.runtimeconfig.json
+C:\Users\lakki\Documents\Himmelblau\bin\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Documents\Himmelblau\bin\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.csproj.AssemblyReference.cache
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.Form1.resources
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.csproj.GenerateResource.cache
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.AssemblyInfoInputs.cache
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.AssemblyInfo.cs
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.csproj.CoreCompileInputs.cache
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.dll
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\refint\PSO.dll
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.pdb
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\PSO.genruntimeconfig.cache
+C:\Users\lakki\Documents\Himmelblau\obj\Debug\net6.0-windows\ref\PSO.dll
